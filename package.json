@@ -1,0 +1,27 @@
+{
+  "name": "tictactoe",
+  "subdomain": "foo-labs-tictactoe",
+  "description": "Real-time apps made cross-browser & easy with a WebSocket-like API",
+  "private": "true",
+  "scripts": {
+    "start": "app.js"
+  },
+  "version": "0.0.1-2",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "express": "3.0.3",
+    "ejs": "~0.7.1",
+    "mongoose": "3.4.x",
+    "stylus": "0.30.x",
+    "ntwitter": "0.5.0",
+    "jade": "*"
+    "socket.io": "*",
+    "mongojs": "0.4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Folashade/tictactoe.git"
+  }
+}
